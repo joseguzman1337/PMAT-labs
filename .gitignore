@@ -1,3 +1,7 @@
 .idea/*
 .vs/*
 .vs/
+
+# macOS system files
+.DS_Store
+._*
